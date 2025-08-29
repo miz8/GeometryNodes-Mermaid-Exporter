@@ -5,12 +5,12 @@ from bpy.props import EnumProperty
 bl_info = {
     "name": "Geometry Nodes Tree to Mermaid",
     "author": "miz8",
-    "version": (1, 0, 0),
+    "version": (1, 0, 1),
     "blender": (4, 0, 0),
     "location": "F3 Search Menu",
     "description": "Exports a Geometry Nodes tree as a Mermaid graph markdown file.",
     "warning": "",
-    "doc_url": "https://github.com/YourGitHub/YourRepo/README.md",
+    "doc_url": "https://github.com/miz8/GeometryNodes-Mermaid-Exporter",
     "category": "Import-Export",
 }
 
